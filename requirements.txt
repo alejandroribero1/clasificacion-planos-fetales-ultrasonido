@@ -1,0 +1,16 @@
+# Pensado para Google Colab con GPU (T4). Version de TensorFlow usada: 2.21.0
+# Para fijar versiones exactas, ejecuta en Colab:
+#   !pip freeze | grep -i -E "tensorflow|keras|torch|transformers|scikit-learn|opencv|pandas|numpy|seaborn"
+tensorflow>=2.21
+torch
+transformers        # version 5 o superior: ya no admite TensorFlow, por eso el ViT va en PyTorch
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+opencv-python
+Pillow
+tqdm
+imagehash           # solo notebook 01
+joblib              # solo notebook 01

@@ -9,7 +9,7 @@ Benchmark de tres arquitecturas de _transfer learning_ (dos CNN y un Vision Tran
 **6 planos de ecografía materno-fetal**, con análisis de **explicabilidad (XAI)**: Grad-CAM, Score-CAM e
 Integrated Gradients para las CNN y Attention Rollout para el ViT.
 
-> ⚠️ **Proyecto académico.** No es una herramienta de diagnóstico clínico ni debe usarse para decisiones médicas.
+>  **Proyecto académico.** No es una herramienta de diagnóstico clínico ni debe usarse para decisiones médicas.
 
 ---
 
